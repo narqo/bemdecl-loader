@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "bemdecl loader for webpack",
   "main": "index.js",
+  "files": [
+    "index.js",
+    "*.md"
+  ],
   "dependencies": {
     "deps-normalize": "^2.4.1"
   },
