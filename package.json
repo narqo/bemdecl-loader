@@ -1,0 +1,29 @@
+{
+  "name": "bemdecl-loader",
+  "version": "0.0.1",
+  "description": "bemdecl loader for webpack",
+  "main": "index.js",
+  "dependencies": {
+    "deps-normalize": "^2.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/narqo/bemdecl-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "bemdecl",
+    "bem"
+  ],
+  "author": "Vladimir Varankin <nek.narqo@gmail.com> (http://github.com/narqo)",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/narqo/bemdecl-loader/issues"
+  },
+  "homepage": "https://github.com/narqo/bemdecl-loader#readme"
+}
